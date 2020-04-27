@@ -1,0 +1,14 @@
+D:\Users\Wilian Henrique\OneDrive - JJXY\Documentos\SharpDevelop Projects\ProjetoBancoDeDados\ProjetoBancoDeDados\obj\Debug\ProjetoBancoDeDados.csprojResolveAssemblyReference.cache
+D:\Users\Wilian Henrique\OneDrive - JJXY\Documentos\SharpDevelop Projects\ProjetoBancoDeDados\ProjetoBancoDeDados\obj\Debug\ProjetoBancoDeDados.csproj.GenerateResource.Cache
+D:\Users\Wilian Henrique\OneDrive - JJXY\Documentos\SharpDevelop Projects\ProjetoBancoDeDados\ProjetoBancoDeDados\bin\Debug\ProjetoBancoDeDados.exe.config
+D:\Users\Wilian Henrique\OneDrive - JJXY\Documentos\SharpDevelop Projects\ProjetoBancoDeDados\ProjetoBancoDeDados\bin\Debug\ProjetoBancoDeDados.exe
+D:\Users\Wilian Henrique\OneDrive - JJXY\Documentos\SharpDevelop Projects\ProjetoBancoDeDados\ProjetoBancoDeDados\bin\Debug\ProjetoBancoDeDados.pdb
+D:\Users\Wilian Henrique\OneDrive - JJXY\Documentos\SharpDevelop Projects\ProjetoBancoDeDados\ProjetoBancoDeDados\obj\Debug\ProjetoBancoDeDados.exe
+D:\Users\Wilian Henrique\OneDrive - JJXY\Documentos\SharpDevelop Projects\ProjetoBancoDeDados\ProjetoBancoDeDados\obj\Debug\ProjetoBancoDeDados.pdb
+D:\Users\Wilian Henrique\OneDrive - JJXY\Documentos\SharpDevelop Projects\ProjetoBancoDeDados\ProjetoBancoDeDados\obj\Debug\ProjetoBancoDeDados.Servidor.resources
+D:\Users\Wilian Henrique\OneDrive - JJXY\Documentos\SharpDevelop Projects\ProjetoBancoDeDados\ProjetoBancoDeDados\bin\Debug\MySql.Data.dll
+D:\Users\Wilian Henrique\OneDrive - JJXY\Documentos\SharpDevelop Projects\ProjetoBancoDeDados\ProjetoBancoDeDados\bin\Debug\Google.Protobuf.dll
+D:\Users\Wilian Henrique\OneDrive - JJXY\Documentos\SharpDevelop Projects\ProjetoBancoDeDados\ProjetoBancoDeDados\bin\Debug\BouncyCastle.Crypto.dll
+D:\Users\Wilian Henrique\OneDrive - JJXY\Documentos\SharpDevelop Projects\ProjetoBancoDeDados\ProjetoBancoDeDados\bin\Debug\Ubiety.Dns.Core.dll
+D:\Users\Wilian Henrique\OneDrive - JJXY\Documentos\SharpDevelop Projects\ProjetoBancoDeDados\ProjetoBancoDeDados\bin\Debug\Renci.SshNet.dll
+D:\Users\Wilian Henrique\OneDrive - JJXY\Documentos\SharpDevelop Projects\ProjetoBancoDeDados\ProjetoBancoDeDados\bin\Debug\MySql.Data.xml
